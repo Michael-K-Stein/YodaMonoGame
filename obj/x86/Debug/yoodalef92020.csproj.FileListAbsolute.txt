@@ -1,0 +1,79 @@
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\Content\cars\car.xnb
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\yoodalef92020.exe
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\yoodalef92020.pdb
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\yoda\source\repos\yoodalef92020\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\yoda\source\repos\yoodalef92020\obj\x86\Debug\yoodalef92020.csproj.CoreCompileInputs.cache
+C:\Users\yoda\source\repos\yoodalef92020\obj\x86\Debug\yoodalef92020.csproj.CopyComplete
+C:\Users\yoda\source\repos\yoodalef92020\obj\x86\Debug\yoodalef92020.exe
+C:\Users\yoda\source\repos\yoodalef92020\obj\x86\Debug\yoodalef92020.pdb
+C:\Users\yoda\source\repos\yoodalef92020\obj\x86\Debug\yoodalef92020.csprojAssemblyReference.cache
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\Content\cars\car.xnb
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\yoodalef92020.exe
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\yoodalef92020.pdb
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\yoda\source\repos\shlishi 2020\obj\x86\Debug\yoodalef92020.csprojAssemblyReference.cache
+C:\Users\yoda\source\repos\shlishi 2020\obj\x86\Debug\yoodalef92020.csproj.CoreCompileInputs.cache
+C:\Users\yoda\source\repos\shlishi 2020\obj\x86\Debug\yoodalef92020.csproj.CopyComplete
+C:\Users\yoda\source\repos\shlishi 2020\obj\x86\Debug\yoodalef92020.exe
+C:\Users\yoda\source\repos\shlishi 2020\obj\x86\Debug\yoodalef92020.pdb
+C:\Users\yoda\source\repos\shlishi 2020\bin\Windows\x86\Debug\Content\rekakaka.xnb
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\Content\cars\car.xnb
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\Content\rekakaka.xnb
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\yoodalef92020.exe
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\yoodalef92020.pdb
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\stein\source\repos\YodaMonoGame\obj\x86\Debug\yoodalef92020.csprojAssemblyReference.cache
+C:\Users\stein\source\repos\YodaMonoGame\obj\x86\Debug\yoodalef92020.csproj.CoreCompileInputs.cache
+C:\Users\stein\source\repos\YodaMonoGame\obj\x86\Debug\yoodalef92020.csproj.CopyComplete
+C:\Users\stein\source\repos\YodaMonoGame\obj\x86\Debug\yoodalef92020.exe
+C:\Users\stein\source\repos\YodaMonoGame\obj\x86\Debug\yoodalef92020.pdb
+C:\Users\stein\source\repos\YodaMonoGame\bin\Windows\x86\Debug\Content\rekakaka2.xnb

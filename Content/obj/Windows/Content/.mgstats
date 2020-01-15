@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/stein/source/repos/YodaMonoGame/Content/cars/car.png","C:/Users/stein/source/repos/YodaMonoGame/Content/bin/Windows/Content/cars/car.xnb","TextureProcessor","Texture2DContent",29929,121605,1.480633
+"C:/Users/stein/source/repos/YodaMonoGame/Content/rekakaka.png","C:/Users/stein/source/repos/YodaMonoGame/Content/bin/Windows/Content/rekakaka.xnb","TextureProcessor","Texture2DContent",86060,5467645,0.2383629
+"C:/Users/stein/source/repos/YodaMonoGame/Content/rekakaka2.png","C:/Users/stein/source/repos/YodaMonoGame/Content/bin/Windows/Content/rekakaka2.xnb","TextureProcessor","Texture2DContent",2651622,7218261,0.3666204
